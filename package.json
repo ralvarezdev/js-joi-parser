@@ -1,0 +1,28 @@
+{
+  "name": "@ralvarezdev/js-joi-parser",
+  "version": "0.1.0",
+  "description": "Joi error parser for JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralvarezdev/js-joi-parser.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "joi",
+    "parser",
+    "joi",
+    "parser"
+  ],
+  "author": "Ramón Álvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralvarezdev/js-joi-parser/issues"
+  },
+  "homepage": "https://github.com/ralvarezdev/js-joi-parser#readme",
+  "type": "module"
+}
