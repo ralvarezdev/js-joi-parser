@@ -1,4 +1,4 @@
-import ParseError from "./error.js";
+import ParseError from "./parser.js";
 
 // Validate and parse the request body using Joi
 export default function Validate(body, schema){
